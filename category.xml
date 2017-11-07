@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="com.google.inject" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.assistedinject" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.daggeradapter" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.grapher" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.tools.jmx" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.jndi" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.multibindings" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.persist" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.servlet" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.spring" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.struts2" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.testing" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <bundle id="com.google.inject.throwingproviders" version="4.1.0">
+      <category name="com.google.guice"/>
+   </bundle>
+   <category-def name="com.google.guice" label="Google Guice">
+      <description>
+         Google Guice is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+      </description>
+   </category-def>
+</site>
